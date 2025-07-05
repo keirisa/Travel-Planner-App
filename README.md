@@ -52,10 +52,10 @@ A multi-user iOS app for planning trips, saving destinations, and checking real-
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 | ![travellogin](https://github.com/user-attachments/assets/da61892d-e3e6-421f-ba00-7134b55c71b1) | ![traveldestinations](https://github.com/user-attachments/assets/0948f07c-1ee3-45e4-8a09-51a2475ff685) | ![traveldestinationdetail](https://github.com/user-attachments/assets/c3f7deeb-8732-4cb5-a565-61fb35d0321f) |
 | Favorites                                                                                           | Create Trip                                                                                          | My Trips                                                                                          |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+|  |  |  |
 | ![travelfavorites](https://github.com/user-attachments/assets/b2ace8bf-7ae4-44ef-aed3-c47bea4107ec) | ![travelcreatetrip](https://github.com/user-attachments/assets/d5fc0e09-9ecf-433c-84cc-3fa2bac52b5d) | ![travelmytrips](https://github.com/user-attachments/assets/04058a08-51db-4d52-a942-ec6363a83720) |
 | Trip Details                                                                                            |   |   |
-| ------------------------------------------------------------------------------------------------------- | - | - |
+|  | - | - |
 | ![travelmytripdetails](https://github.com/user-attachments/assets/7b88127d-7319-49c9-9ce3-4c2bb00aa0dc) |   |   |
 
 ---
