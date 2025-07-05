@@ -62,7 +62,7 @@ A multi-user iOS app for planning trips, saving destinations, and checking real-
 
 ## 📹 Demo Video
 
-🎥 [Watch on YouTube (Unlisted)]([https://your-unlisted-video-link](https://www.youtube.com/watch?v=NQtSFJcvmOU)
+🎥 [Watch on YouTube (Unlisted)]([[https://your-unlisted-video-link](https://www.youtube.com/watch?v=NQtSFJcvmOU)])
 
 ---
 
