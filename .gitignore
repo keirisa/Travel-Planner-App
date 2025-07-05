@@ -1,1 +1,3 @@
 AppData/
+node_modules
+.dbshell
