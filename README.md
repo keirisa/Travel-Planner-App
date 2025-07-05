@@ -60,19 +60,9 @@ A multi-user iOS app for planning trips, saving destinations, and checking real-
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repo
-2. Open in **Xcode**
-3. Run on iPhone 16 simulator (or any recent iPhone)
-4. Make sure your backend API and weather API are reachable
-5. Sign up a user and start exploring!
-
----
-
 ## 📹 Demo Video
 
-🎥 [Watch on YouTube (Unlisted)]([https://your-unlisted-video-link](https://www.youtube.com/watch?v=NQtSFJcvmOU))
+🎥 [Watch on YouTube (Unlisted)]([https://your-unlisted-video-link](https://www.youtube.com/watch?v=NQtSFJcvmOU)
 
 ---
 
