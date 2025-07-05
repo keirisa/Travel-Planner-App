@@ -60,13 +60,13 @@ A multi-user iOS app for planning trips, saving destinations, and checking real-
 
 ---
 
-## 📹 Demo Video
+## Demo Video
 
-🎥 [Watch on YouTube (Unlisted)]([[https://your-unlisted-video-link](https://www.youtube.com/watch?v=NQtSFJcvmOU)])
+[Watch on YouTube](https://www.youtube.com/watch?v=NQtSFJcvmOU)
 
 ---
 
-## 📌 Notes
+## Notes
 
 - All trip and favorite data are stored locally per user using Core Data.
 - Weather is fetched live from the public API during detail view load.
@@ -74,7 +74,7 @@ A multi-user iOS app for planning trips, saving destinations, and checking real-
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Kate de Leon**  
 Built as part of a college mobile development assessment.
